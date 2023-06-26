@@ -19,6 +19,9 @@ If you want to run this project locally, you need to
 - `source myenv/bin/activate`
 - `pip install -r requirements.txt`
 
+3. Download models
+
+- Download models by running `./models/download_models.sh`
 
 ## Usage
 
